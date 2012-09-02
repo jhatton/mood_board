@@ -16,8 +16,5 @@ h1, h2{
 .container {
 	display: block;
 	background-color: #000;
-}
-
-div img{
-	margin: 20 auto;
+	margin: 0 auto;
 }
