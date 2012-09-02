@@ -3,11 +3,12 @@ body {
 	font: 100%/1.5 Helvetica, Arial, sans-serif;
 	width: 65%; /*850px*/
 	margin: 0 auto; 
-	background-color: #87cefa;
+	background-color: #543443;
 }
 
 h1, h2{
 	margin: 0 auto;
+	font-size: 1em;
 	text-align: center;
 	color: #fff;
 }
