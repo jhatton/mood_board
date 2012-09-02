@@ -6,10 +6,13 @@ body {
 	background-color: #87cefa;
 }
 
-h1 {
+h1, h2{
 	margin: 0 auto;
 	text-align: center;
 	color: #fff;
 }
 
 
+.container {
+	margin: 0 auto;
+}
