@@ -1,0 +1,57 @@
+body {
+	color: #324323;
+	font: 100%/1.5 Helvetica, Arial, sans-serif;
+	width: 65%; /*850px*/
+	margin: 0 auto; 
+	background-color: #87cefa;
+}
+
+h1 {
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+
+header p{
+	margin: 0 auto;
+	text-align: center;
+}
+
+h2, h3, h4{
+	color: #fff;
+	background-color: #778899;
+	padding: 3px;
+	font-size: 1.125em;
+	font-weight: bold;
+}
+
+.container{
+	color: #000;
+	display: block;
+	
+	background-color: #4682b4;
+	padding: 5px;	
+}
+
+.container p{
+	margin: 0 auto;
+}
+
+#site {
+	color: #fff;
+	display: block;
+	background-color: #4682b4;
+	padding: 5px;
+}
+
+#site_container {
+	color: #fff;
+	display: block;
+	padding: 5px;
+}
+
+#competitive a {
+	color: #fff;
+	text-decoration: none;
+
+}
