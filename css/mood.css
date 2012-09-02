@@ -18,3 +18,7 @@ h1, h2{
 	background-color: #000;
 	margin: 0 auto;
 }
+
+.container img {
+	padding: 25px
+}
